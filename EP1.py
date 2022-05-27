@@ -1,6 +1,7 @@
 """
-    Implementado por Bruno Leite de Andrade
-    Nº USP: 11369642
+    Implementado por:
+    Bruno Leite de Andrade - Nº USP: 11369642
+    Denise Proença - Nº USP: 11319016
     All comments in english to make depuration easier
 """
 import re
